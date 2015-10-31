@@ -1,0 +1,2 @@
+# grit
+study git function
